@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ModSyncNinjaData>
+  <ID>b13ec7de-24af-4307-b7a6-20aeea6475a5</ID>
+  <ModName>Lulu's Sort Recipes</ModName>
+  <Version>1.0.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>LoonyLadle</Owner>
+    <Project>LuluSortRecipes</Project>
+    <AboutDir>About</AboutDir>
+    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
